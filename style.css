@@ -110,7 +110,7 @@ section .btn-free button:hover {
 section .info {
   width: 90%;
   margin: auto;
-  border: 2px dashed orange;
+  /* border: 2px dashed orange; */
   /* padding: 24px; */
   display: flex;
   flex: auto;
